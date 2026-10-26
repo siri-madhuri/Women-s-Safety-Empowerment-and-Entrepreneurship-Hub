@@ -1,0 +1,9 @@
+{
+  "name": "womens-safety-empowerment-entrepreneurship-hub",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Node.js web app for women's safety, empowerment, and entrepreneurship resources.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
